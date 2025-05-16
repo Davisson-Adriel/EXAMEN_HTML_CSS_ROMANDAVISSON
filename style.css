@@ -83,3 +83,11 @@ header {
 .cajita2 img {
     width: 100%;
 }
+
+.maps {
+    display: flex;
+}
+
+.maps img {
+    width: 100px;
+}
