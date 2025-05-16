@@ -58,6 +58,7 @@ header {
     display:flex;
     gap: 20px;
     padding: 10%;
+    justify-content: space-between;
 }
 
 .cajita {
@@ -70,5 +71,15 @@ header {
 }
 
 .cajita img {
+    width: 100%;
+}
+
+.cajita2 {
+    color: black;
+    text-align: center;
+    width: 300px;
+}
+
+.cajita2 img {
     width: 100%;
 }
